@@ -26,7 +26,7 @@ tuple
 
 x = {"name" : "John", "age" : 36}
 print(type(x))
-dict
+dict 
 
 x = True
 print(type(x))
