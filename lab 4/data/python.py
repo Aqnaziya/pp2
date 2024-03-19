@@ -1,6 +1,6 @@
 # Для запуска кода необходимо перейти в терминале в папку data
 import json
-with open("sample_data.json", "r") as my_file:
+with open("C:\Users\Админ\Desktop\pp2\lab 4\data\sample.data.json","r") as my_file:
     json_string = my_file.read()
 data = json.loads(json_string)
 
